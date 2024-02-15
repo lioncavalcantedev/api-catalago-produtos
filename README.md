@@ -32,9 +32,20 @@ O controlador `ProductController` gerencia as operações relacionadas aos produ
 
 Certifique-se de ter o ambiente Laravel configurado e, em seguida, siga estas etapas:
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
-2. Instale as dependências: `composer install`
-3. Inicie um servidor local: `php artisan server`
+1. Clone o repositório:
+```
+git clone https://github.com/seu-usuario/seu-projeto.git
+```
+
+2. Instale as dependências: 
+```
+composer install
+```
+
+3. Inicie um servidor local:
+```
+php artisan server
+```
 
 ## Uso
 
